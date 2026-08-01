@@ -1,0 +1,14 @@
+{
+  "name": "attendance-chatbot",
+  "version": "1.0.0",
+  "description": "카카오 출결지각관리 챗봇 스킬 서버",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.22.2",
+    "googleapis": "^140.0.1"
+  }
+}
