@@ -1,0 +1,1 @@
+- [External npm lockfiles](npm-registry-lockfile.md) — regenerate without Replit firewall URLs before using package-lock.json on external hosts.
